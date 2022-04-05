@@ -4,5 +4,5 @@
 ## Вывод:
   Определил критерии продаж игр по платформам, жанрам, возрастным критериям в разбивке по регионам.
 ## Используемые библиотеки: 
-pandas, numpy, seaborn, matplotlib.
+pandas, numpy, seaborn, matplotlib, plotly, stats, random.
 
